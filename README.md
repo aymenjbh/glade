@@ -1,4 +1,4 @@
-# glade
+# gtk2
 bonjour, j'ai un probleme au niveau toggle ne peux pas crochet merci
 this is the code toggle can not work
 #include <gtk/gtk.h>
